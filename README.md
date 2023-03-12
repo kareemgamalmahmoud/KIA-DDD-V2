@@ -63,7 +63,7 @@ Both driver drowsiness and distraction, however, might have the same effects, th
 - We used our local hardware resources (our laptops) and get the input image through laptop camera or mobile phone camera,\ But in the real life of course we will need a hardware platform like ( raspberry pi ) but acully we are not a hardware team we are a software team but that is interisting for us to study IOT field.
 ![webcam-android-couvertur-min (1)](https://user-images.githubusercontent.com/51359449/134518387-dbec727e-db5e-4966-bbb9-8dedccb7e75c.png)
 
-## Some Bad news :(
+## Some Bad news 😥
  - We were looking for get the location of the driver when he/she makes any mistake to put some rest places on that road or something like that,  but unfortunately it is a paid services from google maps. So, it is not work for now.
  - We came to implement a database, but time did not help us.
 
